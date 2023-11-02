@@ -1,3 +1,5 @@
+// this code is used to find out minimum distance between 2 elements x and y
+
 #include <bits/stdc++.h>
 using namespace std;
 
